@@ -28,5 +28,6 @@ public class OperasiMatematika {
 
     d--;
     System.out.println(d);
+    System.out.println(!true);
   }
 }
